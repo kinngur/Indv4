@@ -1,4 +1,4 @@
-# Indv4
+Indv4
 =====================================
 
 Este práctica individual forma parte de la asignatura **Algoritmos y Estructura de Datos** del Grado en Ingeniería Informática en la UPM.
